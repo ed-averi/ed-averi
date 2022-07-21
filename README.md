@@ -1,6 +1,6 @@
 ## Hi there, I'm Gerson! 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ed-averi&show_icons=true&theme=radical)
+![Gerson's GitHub stats](https://github-readme-stats.vercel.app/api?username=ed-averi&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ed-averi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
