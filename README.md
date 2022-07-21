@@ -1,8 +1,14 @@
-## Hi there, I'm Gerson 👋
+## Hi there, I'm Gerson! 👋
 
-<img align ="left"  width="47%" src="https://github-readme-stats.vercel.app/api?username=ed-averi&show_icons=true&theme=radical" />
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ed-averi&show_icons=true&theme=radical)
 
-<img align ="left" width ="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ed-averi&layout=compact " />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<br>
+
+## Languagues & Frameworks that I have worked with:
+
+<br>
 
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
