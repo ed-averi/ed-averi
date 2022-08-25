@@ -6,7 +6,7 @@
 
 <br>
 
-## Languagues & Frameworks that I have worked with and I'm still learning:
+## Languagues, Libraries & Frameworks that I have worked with and I'm still learning:
 
 <br>
 
